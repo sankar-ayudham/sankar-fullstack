@@ -1,0 +1,13 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# OS / editor noise
+.DS_Store
+*.log
+
+# Build artifacts
+dist/
+build/
