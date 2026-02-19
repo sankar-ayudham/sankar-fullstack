@@ -1,0 +1,4 @@
+INFO start
+ERROR failed
+INFO retry
+ERROR timeout
